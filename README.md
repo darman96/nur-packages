@@ -1,6 +1,6 @@
-# nur-packages-template
+# nur-packages
 
-**A template for [NUR](https://github.com/nix-community/NUR) repositories**
+**My Nix packages for [NUR](https://github.com/nix-community/NUR)**
 
 ## Setup
 
